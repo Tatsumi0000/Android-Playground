@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Communicating-with-fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show">表示</string>
+    <string name="done">完了</string>
+</resources>
